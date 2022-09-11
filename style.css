@@ -560,13 +560,6 @@ footer {
   /* margin-bottom: 200px; */
 }
 
-#footer h2 {
-  color: #fff;
-  /* background: #FDBB10; */
-  font-size: 1.2rem;
-  font-family: 'Mulish', sans-serif;
-}
-
 .caixa1-footer {
   width: 29%;
   display: flex;
